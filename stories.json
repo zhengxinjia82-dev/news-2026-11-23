@@ -1,0 +1,396 @@
+{
+ "briefs": [
+  {
+   "badge": "REPORTED",
+   "n": 14,
+   "place": "New Delhi",
+   "region": "ASIA",
+   "source": "OneTurn",
+   "text": "India pledges €1.4bn for Nepal rebuild"
+  },
+  {
+   "badge": "REPORTED",
+   "n": 15,
+   "place": "Berlin",
+   "region": "EUROPE",
+   "source": "OneTurn",
+   "text": "NATO warns Russia; space defence pledged"
+  },
+  {
+   "badge": "REPORTED",
+   "n": 16,
+   "place": "Sydney",
+   "region": "OCEANIA",
+   "source": "Al Jazeera",
+   "text": "Australia beat NZ 34–10, win World Cup"
+  },
+  {
+   "badge": "REPORTED",
+   "n": 17,
+   "place": "Jerusalem",
+   "region": "M. EAST",
+   "source": "OneTurn",
+   "text": "Netanyahu–Eisenkot coalition talks end"
+  },
+  {
+   "badge": "REPORTED",
+   "n": 18,
+   "place": "Gaza",
+   "region": "M. EAST",
+   "source": "360LiveNews",
+   "text": "Israeli strikes kill UNRWA worker, two others"
+  },
+  {
+   "badge": "REPORTED",
+   "n": 19,
+   "place": "Pyongyang",
+   "region": "ASIA",
+   "source": "Reuters",
+   "text": "North Korea may shut Swiss office"
+  },
+  {
+   "badge": "CONFIRMED",
+   "n": 20,
+   "place": "Paris",
+   "region": "EUROPE",
+   "source": "Reuters",
+   "text": "Mélenchon gains in poll, 35% vs 65%"
+  },
+  {
+   "badge": "FORECAST",
+   "n": 21,
+   "place": "Seoul",
+   "region": "ASIA",
+   "source": "Reuters poll",
+   "text": "Bank of Korea seen raising rates to 3.25%"
+  },
+  {
+   "badge": "REPORTED",
+   "n": 22,
+   "place": "Ottawa",
+   "region": "N. AMERICA",
+   "source": "Reuters",
+   "text": "Canada, Qatar to sign investment pact Tue."
+  },
+  {
+   "badge": "REPORTED",
+   "n": 23,
+   "place": "Zurich",
+   "region": "EUROPE",
+   "source": "Reuters",
+   "text": "Clariant in talks to buy Ashland"
+  },
+  {
+   "badge": "OFFICIAL",
+   "n": 24,
+   "place": "Frankfurt",
+   "region": "EUROPE",
+   "source": "Eurostat",
+   "text": "Euro area inflation rises to 4.0%"
+  },
+  {
+   "badge": "REPORTED",
+   "n": 25,
+   "place": "London",
+   "region": "EUROPE",
+   "source": "Principia",
+   "text": "NHS starts AI breast screening trial"
+  },
+  {
+   "badge": "CLAIM",
+   "n": 26,
+   "place": "San Francisco",
+   "region": "N. AMERICA",
+   "source": "Principia",
+   "text": "Anthropic: AI proved Riemann hypothesis"
+  },
+  {
+   "badge": "REPORTED",
+   "n": 27,
+   "place": "Dhaka",
+   "region": "ASIA",
+   "source": "Daily Mirror",
+   "text": "Bangladesh vows to arrest Hasina on return"
+  },
+  {
+   "badge": "REPORTED",
+   "n": 28,
+   "place": "Harare",
+   "region": "AFRICA",
+   "source": "Daily Mirror",
+   "text": "Pastor Uebert Angel arrested in Harare"
+  },
+  {
+   "badge": "CLAIM",
+   "n": 29,
+   "place": "Jeddah",
+   "region": "M. EAST",
+   "source": "Daily Mirror",
+   "text": "Houthis claim Saudi refinery attack"
+  },
+  {
+   "badge": "CONFIRMED",
+   "n": 30,
+   "place": "São Paulo",
+   "region": "S. AMERICA",
+   "source": "Reuters",
+   "text": "Real past 6.00/$, down 17% since runoff"
+  },
+  {
+   "badge": "REPORTED",
+   "n": 31,
+   "place": "Montevideo",
+   "region": "S. AMERICA",
+   "source": "WEEX",
+   "text": "Brazil: Mercosur should track crypto jointly"
+  },
+  {
+   "badge": "REPORTED",
+   "n": 32,
+   "place": "Canberra",
+   "region": "OCEANIA",
+   "source": "SCMP",
+   "text": "Australia to treat AI as foreign policy issue"
+  }
+ ],
+ "date": "2026-11-23",
+ "date_check": [
+  {
+   "text": "COP31 talks collapse, Antalya",
+   "when": "Sun 22 Nov"
+  },
+  {
+   "text": "Kerch bridge span collapses",
+   "when": "Tue 17 Nov"
+  },
+  {
+   "text": "Huang resigns as Nvidia CEO",
+   "when": "12 Nov"
+  },
+  {
+   "text": "COP31 draft pact published",
+   "when": "Mon 16 Nov"
+  },
+  {
+   "text": "Iowa lead azide blast first set",
+   "when": "Fri 20 Nov"
+  },
+  {
+   "text": "Bolsonaro in intensive care",
+   "when": "Sat 21 Nov"
+  },
+  {
+   "text": "‘El Chapo Isidro’ captured in Sinaloa",
+   "when": "Fri 20 Nov"
+  }
+ ],
+ "date_check_notyet": [
+  {
+   "text": "Bank of Korea rate decision",
+   "when": "due Thu 26 Nov"
+  },
+  {
+   "text": "Miss Universe final, San Juan",
+   "when": "due Tue 24 Nov"
+  }
+ ],
+ "footer_sources": "Sources: Reuters, AP, AFP, Al Jazeera, Japan Times, Eurostat, SCMP, Daily Mirror, OneTurn, Principia, 360LiveNews, WEEX.",
+ "headlines": [
+  {
+   "art": "chip",
+   "badge": "CONFIRMED",
+   "body": "Eleven days after resigning, Huang returns after Trump pressed the board. Nasdaq rallies 6.5%.",
+   "n": 1,
+   "region": "NORTH AMERICA · TECH",
+   "source": "Reuters",
+   "title": "Huang returns as Nvidia chief; shares jump 31%"
+  },
+  {
+   "art": "ship",
+   "badge": "CONFIRMED",
+   "body": "Zelensky says seven naval drones sank the corvette Merkury at Benghazi port, far from home waters.",
+   "n": 2,
+   "region": "AFRICA · CONFLICT",
+   "source": "Reuters",
+   "title": "Ukraine sinks Russian warship off Libya"
+  },
+  {
+   "art": "tanker",
+   "badge": "CONFIRMED",
+   "body": "Tehran vows to use all its tools against the blockade. Trump says strikes may resume in the new year.",
+   "n": 3,
+   "region": "MIDDLE EAST · CONFLICT",
+   "source": "Reuters",
+   "title": "Iran vows to fight US naval blockade"
+  }
+ ],
+ "kicker_right": "32 STORIES · 7 REGIONS · ALL FROM THIS MONDAY",
+ "map_points": [
+  {
+   "label": "Nvidia, California",
+   "lat": 37,
+   "lon": -122,
+   "n": 1
+  },
+  {
+   "label": "Benghazi, Libya",
+   "lat": 32,
+   "lon": 20,
+   "n": 2
+  },
+  {
+   "label": "Strait of Hormuz",
+   "lat": 26,
+   "lon": 56,
+   "n": 3
+  }
+ ],
+ "masthead": "MONDAY 23 NOVEMBER 2026",
+ "numbers": [
+  {
+   "big": "+31%",
+   "label": "Nvidia shares on Huang’s return"
+  },
+  {
+   "big": "258",
+   "label": "House seats, Democrats’ best since 1992"
+  },
+  {
+   "big": "7",
+   "label": "Naval drones that sank the Merkury"
+  },
+  {
+   "big": "$43.9bn",
+   "label": "CrowdStrike–Zscaler all-stock deal"
+  }
+ ],
+ "regions_count": {
+  "AFRICA": 3,
+  "ASIA": 7,
+  "EUROPE": 8,
+  "M. EAST": 4,
+  "N. AMERICA": 6,
+  "OCEANIA": 2,
+  "S. AMERICA": 2
+ },
+ "secondary": [
+  {
+   "art": "ballot",
+   "badge": "CONFIRMED",
+   "body": "At least 258 seats, most since 1992.",
+   "n": 4,
+   "region": "N. AMERICA",
+   "source": "AP",
+   "title": "Democrats win biggest House majority since 1992"
+  },
+  {
+   "art": "building",
+   "badge": "CONFIRMED",
+   "body": "Drone hit a five-storey block before dawn.",
+   "n": 5,
+   "region": "EUROPE",
+   "source": "Reuters",
+   "title": "Russian strike on Dymer flats kills at least 11"
+  },
+  {
+   "art": "drone",
+   "badge": "REPORTED",
+   "body": "Strikes ran 00:00–02:30 GMT; army blames Ethiopia.",
+   "n": 6,
+   "region": "AFRICA",
+   "source": "AFP",
+   "title": "Khartoum drones hit homes and a UN building"
+  },
+  {
+   "art": "flame",
+   "badge": "CONFIRMED",
+   "body": "About 30 workers still missing in Banten.",
+   "n": 7,
+   "region": "ASIA",
+   "source": "OneTurn",
+   "title": "Candy factory fire kills 24 in Indonesia"
+  },
+  {
+   "art": "shield",
+   "badge": "CONFIRMED",
+   "body": "All-stock takeover as cyber threats mount.",
+   "n": 8,
+   "region": "N. AMERICA",
+   "source": "Reuters",
+   "title": "CrowdStrike buys Zscaler in $43.9bn deal"
+  },
+  {
+   "art": "barrel",
+   "badge": "CONFIRMED",
+   "body": "Army told to halt blast of 68 barrels.",
+   "n": 9,
+   "region": "N. AMERICA",
+   "source": "Reuters",
+   "title": "Trump pauses Iowa lead azide detonation"
+  },
+  {
+   "art": "scales",
+   "badge": "CONFIRMED",
+   "body": "Supreme Court shelves case after a decade in exile.",
+   "n": 10,
+   "region": "EUROPE",
+   "source": "Reuters",
+   "title": "Spain court clears Puigdemont to return"
+  },
+  {
+   "art": "orbit",
+   "badge": "CONFIRMED",
+   "body": "JAXA and ESA probes arrive after eight years.",
+   "n": 11,
+   "region": "ASIA",
+   "source": "Japan Times",
+   "title": "BepiColombo enters orbit around Mercury"
+  },
+  {
+   "art": "flag",
+   "badge": "REPORTED",
+   "body": "Commission tables latest measures in Brussels.",
+   "n": 12,
+   "region": "EUROPE",
+   "source": "OneTurn",
+   "title": "EU proposes 22nd sanctions package on Russia"
+  },
+  {
+   "art": "flag",
+   "badge": "REPORTED",
+   "body": "Intel chief defends the label as “entirely appropriate” on Sunday.",
+   "n": 13,
+   "region": "ASIA",
+   "source": "Al Jazeera",
+   "title": "Trump calls Putin ‘my friend’"
+  }
+ ],
+ "subtitle": "Huang is back at Nvidia, Ukraine sinks a Russian warship off Libya, and Iran vows to fight a US blockade",
+ "timeline": [
+  {
+   "label": "Khartoum drone strikes begin",
+   "utc": "00:00"
+  },
+  {
+   "label": "Khartoum report published",
+   "utc": "04:25"
+  },
+  {
+   "label": "Australia’s rugby win reported",
+   "utc": "13:13"
+  },
+  {
+   "label": "Nvidia rebound brief",
+   "utc": "17:04"
+  },
+  {
+   "label": "Mélenchon runoff poll out",
+   "utc": "20:00"
+  },
+  {
+   "label": "N. Korea statement",
+   "utc": "21:24"
+  }
+ ],
+ "weekday": "Monday"
+}
